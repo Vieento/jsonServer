@@ -1,0 +1,632 @@
+[
+    {
+        "name": "e656cdfe64bd17251a02",
+        "type": "calendarProByOKVIZ359F68153F3C4C1B84994D4D62ED4EAC",
+        "title": "Fecha Vencimiento de Poliza",
+        "layout": {
+            "x": 0,
+            "y": 166.08899297423886,
+            "z": 3000,
+            "width": 1279.8126463700235,
+            "height": 185.480093676815,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "dfde50af04a83286ca5f",
+        "type": "tableEx",
+        "title": "Reporte de Unidades",
+        "layout": {
+            "x": 451.04761904761904,
+            "y": 372.27838827838826,
+            "z": 32000,
+            "width": 828.952380952381,
+            "height": 347.8974358974359,
+            "displayState": {
+                "mode": 1
+            }
+        }
+    },
+    {
+        "name": "6f9d6e83aa4435e35b34",
+        "type": "card",
+        "title": "Total Unidades",
+        "layout": {
+            "x": 924.8711943793911,
+            "y": 0,
+            "z": 13000,
+            "width": 161.87353629976582,
+            "height": 43.840749414519905,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "eca088baabe93cd5240c",
+        "type": "slicer",
+        "title": "Segmentación de datos",
+        "layout": {
+            "x": 1088.4309133489462,
+            "y": 43.840749414519905,
+            "z": 14000,
+            "width": 191.38173302107728,
+            "height": 51.42857142857143,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "c02dac043142abd34689",
+        "type": "slicer",
+        "title": "Segmentación de datos",
+        "layout": {
+            "x": 924.8711943793911,
+            "y": 43.840749414519905,
+            "z": 15000,
+            "width": 163.55971896955504,
+            "height": 51.42857142857143,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "f74201c71c06debbb909",
+        "type": "slicer",
+        "title": "Segmentación de datos",
+        "layout": {
+            "x": 733.4894613583139,
+            "y": 43.840749414519905,
+            "z": 16000,
+            "width": 191.38173302107728,
+            "height": 51.42857142857143,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "b43297aae8c356b78ec0",
+        "type": "slicer",
+        "title": "Segmentación de datos",
+        "layout": {
+            "x": 606.1826697892271,
+            "y": 95.26932084309134,
+            "z": 17000,
+            "width": 673.6299765807962,
+            "height": 59.01639344262295,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "a6e02506bd48d9dd866b",
+        "type": "slicer",
+        "title": "Segmentación de datos",
+        "layout": {
+            "x": 126.46370023419203,
+            "y": 43.840749414519905,
+            "z": 18000,
+            "width": 126.46370023419203,
+            "height": 51.42857142857143,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "c80790ead1d20886e5ac",
+        "type": "slicer",
+        "title": "Segmentación de datos",
+        "layout": {
+            "x": 0,
+            "y": 43.840749414519905,
+            "z": 19000,
+            "width": 126.46370023419203,
+            "height": 51.42857142857143,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "13aeabf91e637e06106d",
+        "type": "slicer",
+        "title": "Segmentación de datos",
+        "layout": {
+            "x": 252.92740046838406,
+            "y": 43.840749414519905,
+            "z": 20000,
+            "width": 168.61826697892272,
+            "height": 51.42857142857143,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "b513aea2447bda662856",
+        "type": "slicer",
+        "title": "Segmentación de datos",
+        "layout": {
+            "x": 419.0163934426229,
+            "y": 43.840749414519905,
+            "z": 21000,
+            "width": 168.61826697892272,
+            "height": 51.42857142857143,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "fe05071df2d59c80fae7",
+        "type": "slicer",
+        "title": "Segmentación de datos",
+        "layout": {
+            "x": 587.6346604215456,
+            "y": 43.840749414519905,
+            "z": 22000,
+            "width": 145.85480093676816,
+            "height": 51.42857142857143,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "a8b8a55d55d9d2463a9e",
+        "type": "slicer",
+        "title": "Segmentación de datos",
+        "layout": {
+            "x": 189.69555035128806,
+            "y": 95.26932084309134,
+            "z": 23000,
+            "width": 416.4871194379391,
+            "height": 59.01639344262295,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "234bcb067d35261e2efa",
+        "type": "slicer",
+        "title": "Segmentación de datos",
+        "layout": {
+            "x": 0,
+            "y": 95.26932084309134,
+            "z": 24000,
+            "width": 189.69555035128806,
+            "height": 59.01639344262295,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "f9b29adc90bb984f6f64",
+        "type": "image",
+        "title": "Imagen",
+        "layout": {
+            "x": 11.80327868852459,
+            "y": 6.744730679156909,
+            "z": 25000,
+            "width": 124.77751756440281,
+            "height": 30.351288056206087,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "ec9904eebf9b9e283ad5",
+        "type": "pageNavigator",
+        "title": "Navegador de páginas",
+        "layout": {
+            "x": 465.3864168618267,
+            "y": 5.058548009367682,
+            "z": 12000,
+            "width": 348.1967213114754,
+            "height": 32.03747072599531,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "e98df5de417eb44adaa8",
+        "type": "shape",
+        "title": "Forma",
+        "layout": {
+            "x": 0,
+            "y": 0,
+            "z": 10000,
+            "width": 147.54098360655738,
+            "height": 43.840749414519905,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "6399b7cbb2f64b501557",
+        "type": "shape",
+        "title": "Forma",
+        "layout": {
+            "x": 451.05386416861825,
+            "y": 0,
+            "z": 9000,
+            "width": 371.8032786885246,
+            "height": 43.840749414519905,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "d34975256f73ad7e96d9",
+        "type": "shape",
+        "title": "Forma",
+        "layout": {
+            "x": 1133.9578454332552,
+            "y": 0,
+            "z": 8000,
+            "width": 145.85480093676816,
+            "height": 43.840749414519905,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "23d5b107a6214ae47690",
+        "type": "card",
+        "title": "Tarjeta",
+        "layout": {
+            "x": 1148.2903981264637,
+            "y": 15.175644028103044,
+            "z": 11000,
+            "width": 116.34660421545668,
+            "height": 28.66510538641686,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "4c9053f3c6dbe5b1c15c",
+        "type": "card",
+        "title": "Tarjeta",
+        "layout": {
+            "x": 1148.2903981264637,
+            "y": 0,
+            "z": 26000,
+            "width": 116.34660421545668,
+            "height": 21.07728337236534,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "ca45d5306b3bb332c999",
+        "type": "bookmarkNavigator",
+        "title": "Navegador de marcadores",
+        "layout": {
+            "x": 6.744730679156909,
+            "y": 153.44262295081967,
+            "z": 27000,
+            "width": 90.21077283372365,
+            "height": 12.646370023419204,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "d579b055f5e78062c685",
+        "type": "calendarProByOKVIZ359F68153F3C4C1B84994D4D62ED4EAC",
+        "title": "Fecha de Verificacion",
+        "layout": {
+            "x": 0,
+            "y": 166.08899297423886,
+            "z": 2000,
+            "width": 1279.8126463700235,
+            "height": 185.480093676815,
+            "displayState": {
+                "mode": 1
+            }
+        }
+    },
+    {
+        "name": "35e4176e8737f9e574f7",
+        "type": "calendarProByOKVIZ359F68153F3C4C1B84994D4D62ED4EAC",
+        "title": "Fecha Vencimiento Tarjeta de Circulacion",
+        "layout": {
+            "x": 0,
+            "y": 166.08899297423886,
+            "z": 1000,
+            "width": 1279.8126463700235,
+            "height": 185.480093676815,
+            "displayState": {
+                "mode": 1
+            }
+        }
+    },
+    {
+        "name": "5af4751598b2a5db8f0e",
+        "type": "donutChart",
+        "title": "Tipo Engomado",
+        "layout": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "width": 442.1023890784983,
+            "height": 200.9556313993174,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "d0da488d6de8c1b41fff",
+        "type": "clusteredColumnChart",
+        "title": "Color Engomado",
+        "layout": {
+            "x": 0,
+            "y": 200.72281979904272,
+            "z": 1000,
+            "width": 442.21574344023327,
+            "height": 147.40524781341108,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "35a7a37b4b1cdd274ca9",
+        "type": "donutChart",
+        "title": "Categoria",
+        "layout": {
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "width": 442.1023890784983,
+            "height": 200.9556313993174,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "e524aa981e52d058cae0",
+        "type": "clusteredColumnChart",
+        "title": "Estatus del Vehiculo",
+        "layout": {
+            "x": 0,
+            "y": 200.95563139931738,
+            "z": 1000,
+            "width": 442.1023890784983,
+            "height": 146.78498293515358,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "27ea68b75ae76615ffbe",
+        "type": "donutChart",
+        "title": "Empresa",
+        "layout": {
+            "x": 0,
+            "y": 0,
+            "z": 1000,
+            "width": 442.1023890784983,
+            "height": 200.9556313993174,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "36566f6ecda68095e71f",
+        "type": "clusteredColumnChart",
+        "title": "Entidad Verificacion",
+        "layout": {
+            "x": 0,
+            "y": 200.49393526303737,
+            "z": 0,
+            "width": 442.21574344023327,
+            "height": 147.40524781341108,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "25ca6fadf1c5180020ad",
+        "type": "bookmarkNavigator",
+        "title": "Navegador de marcadores",
+        "layout": {
+            "x": 6.564102564102564,
+            "y": 353.5238095238095,
+            "z": 31000,
+            "width": 90.02197802197803,
+            "height": 13.128205128205128,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "4b09b0256ca7c7743138",
+        "type": "clusteredBarChart",
+        "title": "Marca",
+        "layout": {
+            "x": 0,
+            "y": 0,
+            "z": 1000,
+            "width": 186.58892128279885,
+            "height": 200.58309037900875,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "969427d633e235bd7a7d",
+        "type": "clusteredBarChart",
+        "title": "Modelo",
+        "layout": {
+            "x": 192.18658892128286,
+            "y": 0,
+            "z": 2000,
+            "width": 186.58892128279885,
+            "height": 200.58309037900875,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "dca09bc66b7aba0a7a5e",
+        "type": "SunburstDD4B4E19938B4CDD9D3EFC2221D4DCF7",
+        "title": "Division, Oficina y Ubicacion",
+        "layout": {
+            "x": 386.2390670553936,
+            "y": 0,
+            "z": 3000,
+            "width": 443.1486880466473,
+            "height": 347.98833819241986,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "8fa060a8b2ee2d7c219d",
+        "type": "clusteredColumnChart",
+        "title": "Año Modelo",
+        "layout": {
+            "x": 0,
+            "y": 200.5830903790087,
+            "z": 0,
+            "width": 378.7755102040817,
+            "height": 147.40524781341108,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "3c48caa374ba20c59666",
+        "type": "bookmarkNavigator",
+        "title": "Navegador de marcadores",
+        "layout": {
+            "x": 462.74052478134115,
+            "y": 353.58600583090384,
+            "z": 34000,
+            "width": 63.440233236151606,
+            "height": 13.061224489795919,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "489f6fe5316f73671839",
+        "type": "card",
+        "title": "Tarjeta",
+        "layout": {
+            "x": 6.744730679156909,
+            "y": 166.08899297423886,
+            "z": 4000,
+            "width": 146.69789227166277,
+            "height": 22.763466042154565,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    },
+    {
+        "name": "e56919cd0677f2b36a1c",
+        "type": "card",
+        "title": "Tarjeta",
+        "layout": {
+            "x": 6.744730679156909,
+            "y": 166.08899297423886,
+            "z": 5000,
+            "width": 102.85714285714286,
+            "height": 22.763466042154565,
+            "displayState": {
+                "mode": 1
+            }
+        }
+    },
+    {
+        "name": "3587cb3181668524c5e4",
+        "type": "card",
+        "title": "Tarjeta",
+        "layout": {
+            "x": 6.744730679156909,
+            "y": 166.08899297423886,
+            "z": 6000,
+            "width": 199.81264637002343,
+            "height": 22.763466042154565,
+            "displayState": {
+                "mode": 1
+            }
+        }
+    },
+    {
+        "name": "51b523280b7dfd0f0fb0",
+        "type": "calendarProByOKVIZ359F68153F3C4C1B84994D4D62ED4EAC",
+        "title": "Fecha Vigencia de Verificacion",
+        "layout": {
+            "x": 0,
+            "y": 166,
+            "z": 0,
+            "width": 1279,
+            "height": 185,
+            "displayState": {
+                "mode": 1
+            }
+        }
+    },
+    {
+        "name": "70d02b090b81e064695e",
+        "type": "card",
+        "title": "Tarjeta",
+        "layout": {
+            "x": 6,
+            "y": 166,
+            "z": 7000,
+            "width": 162.9090909090909,
+            "height": 26.181818181818183,
+            "displayState": {
+                "mode": 1
+            }
+        }
+    },
+    {
+        "name": "1d3e181f7339f485900c",
+        "type": "actionButton",
+        "title": "Botón",
+        "layout": {
+            "x": 153.44262295081967,
+            "y": 15.175644028103044,
+            "z": 35000,
+            "width": 73.34894613583138,
+            "height": 21.920374707259953,
+            "displayState": {
+                "mode": 0
+            }
+        }
+    }
+]

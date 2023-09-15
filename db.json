@@ -1,0 +1,29 @@
+{
+  "clientes": [
+    {
+      "nombre": "Test",
+      "email": "test@test.com",
+      "telefono": "102013313",
+      "id": 1
+    },
+    {
+      "nombre": "Test 02",
+      "email": "test02@test.com",
+      "telefono": "138198313",
+      "notas": "desde json server",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "nombre": "Test 03",
+      "telefono": 319381983,
+      "email": "tes03@test.com"
+    },
+    {
+      "id": 4,
+      "nombre": "Test 04",
+      "telefono": 1398198938,
+      "email": "test04@test.com"
+    }
+  ]
+}
