@@ -25,5 +25,23 @@
       "telefono": 1398198938,
       "email": "test04@test.com"
     }
-  ]
+  ],
+  
+    "embedConfig": {
+      "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiIsIng1dCI6Ii1LSTNROW5OUjdiUm9meG1lWm9YcWJIWkdldyIsImtpZCI6Ii1LSTNROW5OUjdiUm9meG1lWm9YcWJIWkdldyJ9.eyJhdWQiOiJodHRwczovL2FuYWx5c2lzLndpbmRvd3MubmV0L3Bvd2VyYmkvYXBpIiwiaXNzIjoiaHR0cHM6Ly9zdHMud2luZG93cy5uZXQvODY2MWNlMjEtOTUyMy00ZDFmLTk2YTQtN2I3ZjU4NjNjOWE0LyIsImlhdCI6MTY5NDc5NTAwMiwibmJmIjoxNjk0Nzk1MDAyLCJleHAiOjE2OTQ3OTk2NzEsImFjY3QiOjAsImFjciI6IjEiLCJhaW8iOiJBVFFBeS84VUFBQUFvamE1QU9pVjhKbUwydUhKQ0I3Q3RubHhiOVJQYzM4VVFiaVFhVHZzSXhJejdxMUFCYnJVNjFjUHN6bC9hUHpkIiwiYW1yIjpbInB3ZCJdLCJhcHBpZCI6Ijg3MWMwMTBmLTVlNjEtNGZiMS04M2FjLTk4NjE0MzY2NmEyIiwiYXBwaWRhY3IiOiIwIiwiZmFtaWx5X25hbWUiOiJTaWx2YSIsImdpdmVuX25hbWUiOiJBbmdlbCIsImlwYWRkciI6IjE4Ny4xOTAuMTg5LjM2IiwibmFtZSI6IkFuZ2VsIFNpbHZhIiwib2lkIjoiYjU4YjE1OGUtYjNjYy00NDkzLTgwMmQtMDA5NDYxMzY2NmEyIiwicHVpZCI6IjEwMDMyMDAyRjAyRjkwMDEiLCJyaCI6IjAuQVZFQUljNWhoaU9WSDAyV3BIdF9XR1BKcEFrQUFBQUFBQUFBd0FBQUFBQUFBQUJSQUlZLiIsInNjcCI6InVzZXJfaW1wZXJzb25hdGlvbiIsInNpZ25pbl9zdGF0ZSI6WyJrbXNpIl0sInN1YiI6InN3ZVp3SHU3Z0RBSjBxWDNTYUJucHdlSS1PQmNlZUdtOW9EeFFDUnRPSnciLCJ0aWQiOiI4NjYxY2UyMS05NTIzLTRkMWYtOTZhNC03YjdmNTg2M2M5YTQiLCJ1bmlxdWVfbmFtZSI6ImEuc2lsdmFAc29sdWNpb25lc2NvbXN5cy5jb20iLCJ1cG4iOiJhLnNpbHZhQHNvbHVjaW9uZXNjb21zeXMuY29tIiwidXRpIjoiSkpRUS14M0xOMDJaU2Nrd3Jzc0tBQSIsInZlciI6IjEuMCIsIndpZHMiOlsiYjc5ZmJmNGQtM2VmOS00Njg5LTgxNDMtNzZiMTk0ZTg1NTA5Il19.da5ZX-_QlucBHvaP4DCZR6FYKix_jE2-sdtlF7wv4aLSPq_rBPLcxdHvXUApmOH9eBdXyS7ru9EuF4aePmUJec_Kf00cVIUtMNVWL28papIan-NnnkAQWT9ZSKObcXh9ejRspj7C7Gq-_6010Q4jPvQC_0RdxRoGUNZ2gTiZwhfVhoVH5l6IotRF58m7T0Mkdg--VHTlSY1oRblxEvHgstwJDxVj663IzG7j7Ail2fLMkJaDmj8EeFGImpADYXfaIGFNbRwD8waUSWPYu0XhWP4BhBurym_DpFbZnhO2vpO0IH0J4TzRruTXAwncxn7LwH0TR0py3FDQ4Ik_y51RVA",
+      "embedUrl": "https://app.powerbi.com/reportEmbed?reportId=12fc218e-5fa4-4402-8cdd-02b52cbb39c0&groupId=c5a3efa5-200b-44c9-8941-3d868970c650&w=2&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly9XQUJJLVBBQVMtMS1TQ1VTLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0IiwiZW1iZWRGZWF0dXJlcyI6eyJtb2Rlcm5FbWJlZCI6dHJ1ZSwidXNhZ2VNZXRyaWNzVk5leHQiOnRydWV9fQ%3d%3d",
+      "pageName": "ReportSection",
+      "type": "visual",
+      "visualName": "dca09bc66b7aba0a7a5e",
+      "settings": {
+        "panes": {
+          "filters": {
+            "expanded": false,
+            "visible": true
+          }
+        }
+      }
+    }
+  
+
 }
